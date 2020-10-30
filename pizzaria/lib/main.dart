@@ -53,6 +53,6 @@ class MyApp extends StatelessWidget {
         ),
         routes: rotas,
         debugShowCheckedModeBanner: false,
-        home: Login());
+        home: Splash());
   }
 }
